@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63dcef6683f7c1c9dd3d4891"
+  },
+  "name": "Bordeaux",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_des_Girondins_de_Bordeaux.svg/1200px-Logo_des_Girondins_de_Bordeaux.svg.png",
+  "players": [
+    "63dcf49483f7c1c9dd3d48b0,63dcf46183f7c1c9dd3d48ae,63dcf34e83f7c1c9dd3d48a8"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423590246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675436823243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf0f483f7c1c9dd3d489a"
+  },
+  "name": "Marseille",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1612px-Logo_Olympique_de_Marseille.svg.png",
+  "players": [
+    "63dcf09a83f7c1c9dd3d4897,63dcf05283f7c1c9dd3d4895,63dcf00783f7c1c9dd3d4893"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423988570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423988570"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf23883f7c1c9dd3d48a2"
+  },
+  "name": "Lens",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1200px-Logo_RC_Lens.svg.png",
+  "players": [
+    "63dcf1f083f7c1c9dd3d48a0,63dcf1c283f7c1c9dd3d489e,63dcf19283f7c1c9dd3d489c"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424312764"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424312764"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf3b383f7c1c9dd3d48aa"
+  },
+  "name": "Amien",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/1200px-Logo_Amiens_SC_-_2022.svg.png",
+  "players": [
+    "63dcf34e83f7c1c9dd3d48a8,63dcf30183f7c1c9dd3d48a6,63dcf2c083f7c1c9dd3d48a4"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424691476"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424691476"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf4b883f7c1c9dd3d48b2"
+  },
+  "name": "Bordeaux",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_des_Girondins_de_Bordeaux.svg/1200px-Logo_des_Girondins_de_Bordeaux.svg.png",
+  "players": [
+    "63dcf49483f7c1c9dd3d48b0,63dcf46183f7c1c9dd3d48ae,63dcf34e83f7c1c9dd3d48a8"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424952438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675425023868"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de5dc883f7c1c9dd3d4d37"
+  },
+  "name": "PSG",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/2048px-Paris_Saint-Germain_Logo.svg.png",
+  "players": [
+    "63dceed983f7c1c9dd3d488e,63dcee8883f7c1c9dd3d488c,63dcee1c83f7c1c9dd3d488a"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675517384395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675517384395"
+    }
+  },
+  "__v": 0
+}]

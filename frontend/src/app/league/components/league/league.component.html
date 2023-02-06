@@ -1,0 +1,19 @@
+<app-search (onSearchLeague)="searchLeague($event)"></app-search>
+<div *ngIf="leagueTeams.length > 0; else elseBlock">
+    <mat-grid-list cols="2">
+        <mat-grid-tile *ngFor="let leagueTeam of leagueTeams">
+            <div *ngFor="let team of teams">
+                <div *ngIf="leagueTeam === team._id">
+                    <app-team [team]="team" [search]="searchLigue"></app-team>
+                </div>
+            </div>
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>
+<ng-template #elseBlock>
+    <mat-grid-list cols="2">
+        <mat-grid-tile *ngFor="let team of teams">
+            <app-team [team]="team" [search]="searchLigue"></app-team>
+        </mat-grid-tile>
+    </mat-grid-list>
+</ng-template>

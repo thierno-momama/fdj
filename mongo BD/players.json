@@ -1,0 +1,436 @@
+[{
+  "_id": {
+    "$oid": "63dcee1c83f7c1c9dd3d488a"
+  },
+  "name": "Lionel Messi",
+  "position": "Attaquand",
+  "thumbnail": "https://s.hs-data.com/bilder/spieler/gross/26622.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "41"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "564537600000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423260845"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423260845"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcee8883f7c1c9dd3d488c"
+  },
+  "name": "Presnel Kimpembe",
+  "position": "Defenseur",
+  "thumbnail": "https://www.ligue1.fr/-/media/Project/LFP/shared/Images/Players/2022-2023/09/16809.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "8"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "816998400000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423368252"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423368252"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dceed983f7c1c9dd3d488e"
+  },
+  "name": "Achraf Hakimi",
+  "position": "Defenseur",
+  "thumbnail": "https://sf.sports.fr/wp-content/uploads/2021/07/13-1.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "10"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423449573"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423449573"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf00783f7c1c9dd3d4893"
+  },
+  "name": "Mattéo Guendouzi",
+  "position": "Milieu",
+  "thumbnail": "https://www.gala.fr/imgre/fit/~1~gal~2022~11~18~fe5d56bf-880e-4b9b-b06d-bfbb9473fb6f.jpeg/424x350/quality/80/matteo-guendouzi.jpeg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "8"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423751547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423751547"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf05283f7c1c9dd3d4895"
+  },
+  "name": "Nuno Tavares",
+  "position": "Defense",
+  "thumbnail": "https://m.footballdatabase.eu/images/photos/players/2018-2019/a_344/344521.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "8"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423826889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423826889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf09a83f7c1c9dd3d4897"
+  },
+  "name": "Amine Harit",
+  "position": "Milieu",
+  "thumbnail": "https://africafootunited.com/wp-content/uploads/2023/01/881B1C22-A101-49D7-9432-BE151D0F40B5.jpeg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "5"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675423898500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675423898500"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf19283f7c1c9dd3d489c"
+  },
+  "name": "David Pereira da Costa",
+  "position": "Milieu",
+  "thumbnail": "https://www.ligue1.fr/-/media/Project/LFP/shared/Images/Players/2022-2023/72/74472.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "3"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424146182"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424146182"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf1c283f7c1c9dd3d489e"
+  },
+  "name": "Facundo Medina",
+  "position": "Defense",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/35/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "3"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424194772"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424194772"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf1f083f7c1c9dd3d48a0"
+  },
+  "name": "Seko Fofana",
+  "position": "Defense",
+  "thumbnail": "https://img.a.transfermarkt.technology/portrait/big/182893-1653394911.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "3"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424240714"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424240714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf2c083f7c1c9dd3d48a4"
+  },
+  "name": "Formose Mendy",
+  "position": "Defense",
+  "thumbnail": "https://footsenegal.com/wp-content/uploads/2022/09/Formose-Mendy-2.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424448694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424448694"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf30183f7c1c9dd3d48a6"
+  },
+  "name": "Mathis Lachuer",
+  "position": "Milieu",
+  "thumbnail": "https://m.footballdatabase.eu/images/photos/players/a_415/415172.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424513445"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424513445"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf34e83f7c1c9dd3d48a8"
+  },
+  "name": "Iron Gomis",
+  "position": "Milieu",
+  "thumbnail": "https://www.ligue2.fr/-/media/Project/LFP/shared/Images/Players/2022-2023/10/81210.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424590656"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424590656"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf41e83f7c1c9dd3d48ac"
+  },
+  "name": "Josh Maja",
+  "position": "Milieu",
+  "thumbnail": "https://img.a.transfermarkt.technology/portrait/big/453824-1543494972.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424798959"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424798959"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf46183f7c1c9dd3d48ae"
+  },
+  "name": "Alexi Pitu",
+  "position": "Attaque",
+  "thumbnail": "https://img.a.transfermarkt.technology/portrait/big/547822-1631272807.png",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424865601"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424865601"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf49483f7c1c9dd3d48b0"
+  },
+  "name": "Clément Michelin",
+  "position": "Attaque",
+  "thumbnail": "https://img.a.transfermarkt.technology/portrait/big/318520-1501591204.jpg",
+  "signin": {
+    "amount": {
+      "$numberDecimal": "2"
+    },
+    "currency": "euro"
+  },
+  "born": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675424916786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675424916786"
+    }
+  },
+  "__v": 0
+}]

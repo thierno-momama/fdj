@@ -1,0 +1,16 @@
+<div *ngFor="let player of players">
+    <div *ngFor="let play of allPlayers; let i = index">
+        <div *ngIf="play._id === player" class="containt">
+           <div class="logo"><img [src]="play.thumbnail" [alt]="play.name"></div>
+           <div class="infos">
+               <ul>
+                    <li>Name: {{ play.name }}</li>
+                    <li>Position: {{ play.position }}</li>
+                    <li>Birthday: {{ play.born | date:'fullDate' }}</li>
+                    <li>Price: {{ play.signin.amount["$numberDecimal"] }} Millions {{ play.signin.currency }}</li>
+               </ul>
+           </div>
+        </div>
+    </div>
+</div>
+<footer><a routerLink="/">Back Home</a></footer>

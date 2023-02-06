@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63dcf56483f7c1c9dd3d48b6"
+  },
+  "name": "League 1",
+  "sport": "soccer",
+  "teams": [
+    "63dcf3b383f7c1c9dd3d48aa,63dcf4b883f7c1c9dd3d48b2,63de5dc883f7c1c9dd3d4d37"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675425124377"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675517521089"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dcf5e083f7c1c9dd3d48ba"
+  },
+  "name": "League 2",
+  "sport": "soccer",
+  "teams": [
+    "63dcf3b383f7c1c9dd3d48aa,63dcf4b883f7c1c9dd3d48b2"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675425248724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675509246904"
+    }
+  },
+  "__v": 0
+}]
